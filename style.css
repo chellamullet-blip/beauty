@@ -1,0 +1,104 @@
+/* Umum */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff7fa;
+    color: #333;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #f8c8dc !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #8b3a62 !important;
+}
+
+.nav-link {
+    color: #8b3a62 !important;
+}
+
+.nav-link:hover {
+    color: #d63384 !important;
+}
+
+/* Home */
+#home {
+    padding: 80px 0;
+}
+
+#home h1 {
+    color: #8b3a62;
+    font-weight: bold;
+}
+
+#home p {
+    font-size: 18px;
+}
+
+/* Tombol */
+.btn-beauty {
+    background-color: #d63384;
+    color: white;
+    border: none;
+}
+
+.btn-beauty:hover {
+    background-color: #b52b6f;
+    color: white;
+}
+
+/* Profil */
+#profil {
+    padding: 60px 0;
+}
+
+#profil h2 {
+    color: #8b3a62;
+    font-weight: bold;
+}
+
+/* Kursus */
+#kursus {
+    padding: 60px 0;
+}
+
+#kursus h2 {
+    color: #8b3a62;
+    font-weight: bold;
+}
+
+/* Card */
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    border-radius: 15px 15px 0 0;
+}
+
+/* Testimoni */
+#testimoni {
+    padding: 60px 0;
+}
+
+#testimoni h2 {
+    color: #8b3a62;
+    font-weight: bold;
+}
+
+.testimoni-card {
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #f8c8dc;
+    color: #8b3a62;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
